@@ -1,0 +1,16 @@
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ColorfulParagraphControl.csproj.GenerateResource.Cache
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ColorfulParagraphControl.exe.config
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ColorfulParagraphControl.exe
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ColorfulParagraphControl.pdb
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ColorfulParagraphControl.Properties.Resources.resources
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ColorfulParagraphControl.exe
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ColorfulParagraphControl.pdb
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ColorfulParagraphControl.frmMain.resources
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\ColorfulParagraphControl\bin\Debug\ColorfulParagraphControl.exe.config
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\ColorfulParagraphControl\bin\Debug\ColorfulParagraphControl.exe
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\ColorfulParagraphControl\bin\Debug\ColorfulParagraphControl.pdb
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\ColorfulParagraphControl\obj\Debug\ColorfulParagraphControl.frmMain.resources
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\ColorfulParagraphControl\obj\Debug\ColorfulParagraphControl.Properties.Resources.resources
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\ColorfulParagraphControl\obj\Debug\ColorfulParagraphControl.csproj.GenerateResource.Cache
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\ColorfulParagraphControl\obj\Debug\ColorfulParagraphControl.exe
+C:\Users\Nathu\Desktop\WindowsFormsApplication1\ColorfulParagraphControl\obj\Debug\ColorfulParagraphControl.pdb
