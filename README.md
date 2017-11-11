@@ -1,4 +1,4 @@
-# colorful-paragraph
+# Colorful Paragraph
 Color each word of a sentence using C#.
 
 ![Alt text](https://raw.github.com/nathunandwani/ColorfulParagraph/master/ColorfulParagraphControl/Images/screeny.png "Screeny")
